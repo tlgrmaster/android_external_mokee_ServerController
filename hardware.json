@@ -79,6 +79,14 @@
     "display": "6.18 inch, 2246x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "crackling": {
+    "cpu": "Qualcomm® Snapdragon™ 410 (MSM8916)",
+    "ram": "2GB of LPDDR3 566MHz",
+    "rom": "16GB",
+    "battery": "2500 mAh",
+    "display": "5 inch, 1280x720 pixel(360ppi)",
+    "cpuarch": "arm64"
+  },
   "cancro": {
     "cpu": "Qualcomm® Snapdragon™ 801",
     "ram": "3GB of LP-DDR3",
